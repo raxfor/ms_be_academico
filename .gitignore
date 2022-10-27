@@ -1,6 +1,6 @@
 #Archivo de contraseña
 secrets.json
-.json
+config.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
